@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 7
+  key: smart_classroom_secret_key
+  name: smart_classroom_cookie
+
+credentials:
+  usernames:
+    teacher1:
+      email: teacher1@gmail.com
+      name: teacher1
+      password: $2b$12$dPJXDrZUp97dR1sgQqZBiuQHXCZjEohxlkN/6e6zXyTW3nOXFLXju
+      role: teacher
+
+    admin1:
+      email: admin1@gmail.com
+      name: admin1
+      password: $2b$12$qfGB.xrrdadhB1fzeI5w2ecL7Nja9uHUkV6l7KYHzXpuz2iiko5bG
+      role: admin
+
+preauthorized:
+  emails: []

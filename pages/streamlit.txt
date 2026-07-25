@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyyaml
+streamlit-authenticator
+opencv-python
+face-recognition
+numpy
