@@ -1,3 +1,4 @@
+#Smart Classroom Management System v1.1
 import os
 import streamlit as st
 
